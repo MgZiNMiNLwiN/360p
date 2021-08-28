@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1280000
+http://55.abdakaroukhai.xyz/live/0103088447/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://55.abdakaroukhai.xyz/live/0103088447/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+http://55.abdakaroukhai.xyz/live/0103088447/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5,avc1.42801e"
+http://55.abdakaroukhai.xyz/live/0103088447/index.m3u8
